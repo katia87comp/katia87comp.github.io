@@ -3,7 +3,7 @@ title:  "Scuola di Musica Mikrokosmos"
 subtitle: MK
 author: "Katia Spadola"
 avatar: "img/authors/wferr.png"
-image: "img/b.jpg"
+image: "img/mk foto blog.jpg"
 date:   13 Maggio 2019
 ---
 <html>
