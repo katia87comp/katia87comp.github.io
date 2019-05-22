@@ -1,10 +1,10 @@
 ---
-title:  "Scuoadsajdjasjdasdajdjsla di Musica Mikrokosmos"
-subtitle: MK
-author: "Katia Spadola"
+title:  "MARATONA MUSICALE"
+subtitle: VII edizione
+author: "MK"
 avatar: "img/authors/wferr.png"
 image: "img/c.jpg"
-date:   13 Maggio 2019
+date:   25/26 Maggio 2019
 
 ---
 
@@ -13,16 +13,6 @@ date:   13 Maggio 2019
 <img src= "https://www.bambinonaturale.it/wp-content/uploads/musica-bambini.jpg">
 <html>
 <body>
-
-
-La musica è una legge morale. <br>
-Essa dà un'anima all'universo, <br>
-le ali al pensiero, <br>
-uno slancio all'immaginazione, <br>
-un fascino alla tristezza, <br>
-un impulso alla gaiezza, <br>
-e la vita a tutte le cose. <br>
+Questa settimana si svolgerà la maratona musicale presso l'Auditorium della Fondazione di Piacenza e Vigevano
 
 <html>
-<body>
-<h2> Platone
