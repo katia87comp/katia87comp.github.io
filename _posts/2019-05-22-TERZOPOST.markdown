@@ -4,13 +4,13 @@ subtitle: VII edizione
 author: "MK"
 avatar: "img/authors/wferr.png"
 image: "maratona musicale.jpg"
-date:   25/ Maggio 2019
+date:   25 Maggio 2019
 
 ---
 
 <html>
 <body>
-<img src= "maratona musicale.jpg">
+<img src= "d.jpg">
 <html>
 <body>
 Questa settimana si svolgerà la maratona musicale presso l'Auditorium della Fondazione di Piacenza e Vigevano
