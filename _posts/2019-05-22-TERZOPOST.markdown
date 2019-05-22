@@ -3,7 +3,7 @@ title:  "MARATONA MUSICALE"
 subtitle: VII edizione
 author: "MK"
 avatar: "img/authors/wferr.png"
-image: "mg/mk foto blog.jpg"
+image: "Maratona Musicale.jpg"
 date:   25/ Maggio 2019
 
 ---
