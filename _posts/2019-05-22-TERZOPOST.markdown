@@ -4,7 +4,7 @@ subtitle: VII edizione
 author: "MK"
 avatar: "img/authors/wferr.png"
 image: "img/c.jpg"
-date:   25/26 Maggio 2019
+date:   25/ Maggio 2019
 
 ---
 
