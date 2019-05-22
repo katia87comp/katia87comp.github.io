@@ -1,5 +1,5 @@
 ---
-title:  "Scuoadsajdjasjdasjdajdjsla di Musica Mikrokosmos"
+title:  "Scuola di Musica Mikrokosmos"
 subtitle: MK
 author: "Katia Spadola"
 avatar: "img/authors/wferr.png"
