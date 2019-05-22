@@ -1,5 +1,5 @@
 ---
-title:  "Scuola di Musica Mikrokosmos"
+title:  "Scuoadsajdjasjdasjdajdjsla di Musica Mikrokosmos"
 subtitle: MK
 author: "Katia Spadola"
 avatar: "img/authors/wferr.png"
@@ -21,6 +21,6 @@ un fascino alla tristezza, <br>
 un impulso alla gaiezza, <br>
 e la vita a tutte le cose. <br>
 
-<html>
+<html>  
 <body>
 <h2> Platone
