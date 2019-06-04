@@ -1,10 +1,10 @@
 ---
-title:  "Festival Sovico in Musica"
+title: "Festival Sovico in Musica"
 subtitle: "Mk"
 author: "Katia Spadola"
 avatar: "img/authors/wferr.png"
-image: "img/f.jpg"
-date:   2019-06-25 12:12:12
+image: "img/sovicoinmusica.jpg"
+date:   2019-06-4 12:12:12
 ---
 
 ### Dolor sit amet?
