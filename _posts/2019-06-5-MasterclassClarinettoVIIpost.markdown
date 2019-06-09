@@ -1,6 +1,6 @@
 ---
-title:  "Masterclassi di Clarinetto"
-subtitle: "The Fly!"
+title: MK
+subtitle:
 author: "Katia Spadola"
 avatar: "img/authors/katia.png"
 image: "img/MasterclassClarinettoMG.jpg"
