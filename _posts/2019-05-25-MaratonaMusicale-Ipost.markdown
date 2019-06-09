@@ -2,7 +2,7 @@
 title:  "Maratona Musicale"
 subtitle: "Mk"
 author: "Katia Spadola"
-avatar: "img/authors/katia.png"
+avatar: "img/authors/katia.jpg"
 image: "img/Maratona-musicaleMG.png"
 date:   2019-05-25 12:12:12
 ---
