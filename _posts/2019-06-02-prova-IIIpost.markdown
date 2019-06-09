@@ -1,9 +1,9 @@
 ---
-title:  "Concerto di Mozart k595"
-subtitle: "Anna Caterina Binda"
+title:  "ConcertodiMozart k595"
+subtitle: "FestadellaRepubblica"
 author: "Katia Spadola"
 avatar: "img/authors/wferr.png"
-image: "img/festarepubblica.jpg"
+image: "img/AnnaCaterinaBinda.jpg"
 date:   2019-06-2 12:12:12
 ---
 
