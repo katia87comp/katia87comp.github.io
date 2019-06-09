@@ -1,8 +1,8 @@
 ---
 title:  "Masterclassi di Clarinetto"
 subtitle: "The Fly!"
-author: "Wferr"
-avatar: "img/.png"
+author: "Katia Spadola"
+avatar: "img/authors/katia.png"
 image: "img/MasterclassClarinettoMG.jpg"
 date:   2019-06-5 12:12:12
 ---
