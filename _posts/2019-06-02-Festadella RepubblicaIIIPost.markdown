@@ -1,6 +1,6 @@
 ---
-title:  " Festa della Repubblica"
-subtitle: "Orchestra Ofi"
+title:  
+subtitle: 
 author: "Katia Spadola"
 avatar: "img/authors/katia.png"
 image: "img/FestadellaRepubblicaMG.jpg"
