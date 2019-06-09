@@ -3,7 +3,7 @@ title:  "Video Darko"
 subtitle: "Darko!"
 author: "Katia"
 avatar: "img/authors/katia.png"
-image: "img/a.jpg"
+image: "img/duobalkaniaIMG.jpg"
 date:   2019-06-07 12:12:12
 ---
 
