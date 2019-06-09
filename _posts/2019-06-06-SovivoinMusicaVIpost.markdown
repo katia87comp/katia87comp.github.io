@@ -1,8 +1,8 @@
 ---
-title:  "Sovico in Musica"
-subtitle: "The Fly!"
-author: "Wferr"
-avatar: "img/.png"
+title: MK
+subtitle: 
+author: "Katia Spadola"
+avatar: "img/authors/katia.png"
 image: "img/sovicoinmusicaMG.jpg"
 date:   2019-06-06 12:12:12
 ---
