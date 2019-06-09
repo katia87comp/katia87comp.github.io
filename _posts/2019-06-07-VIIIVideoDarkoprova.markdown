@@ -2,7 +2,7 @@
 title:  "Video Darko"
 subtitle: "The Fly!"
 author: "Wferr"
-avatar: "img/katia.png"
+avatar: "img/authors/katia.png"
 image: "img/a.jpg"
 date:   2019-06-07 12:12:12
 ---
