@@ -3,7 +3,7 @@ title:  "ConcertodiMozart k595"
 subtitle: "FestadellaRepubblica"
 author: "Katia Spadola"
 avatar: "img/authors/wferr.png"
-image: "img/AnnaCaterinaBinda.jpg"
+image: "img/ConcertoDiMozartIMG.jpg"
 date:   2019-06-2 12:12:12
 ---
 
