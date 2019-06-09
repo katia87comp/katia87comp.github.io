@@ -1,7 +1,7 @@
 ---
 title:  "Video Darko"
-subtitle: "Darko!"
-author: "Katia"
+subtitle: "MK"
+author: "Katia Spadola"
 avatar: "img/authors/katia.png"
 image: "img/duobalkaniaIMG.jpg"
 date:   2019-06-07 12:12:12
