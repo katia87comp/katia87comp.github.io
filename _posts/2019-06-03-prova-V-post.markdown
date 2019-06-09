@@ -3,7 +3,7 @@ title: "Festival Sovico in Musica"
 subtitle: "Mk"
 author: "Katia Spadola"
 avatar: "img/authors/wferr.png"
-image: "img/sovicoinmusica.jpg"
+image: "img/AnnaCaterinaBinda.jpg"
 date:   2019-06-4 12:12:12
 ---
 
