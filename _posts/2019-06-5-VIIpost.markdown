@@ -1,5 +1,5 @@
 ---
-title:  "Festa della Repubblica!"
+title:  "Recital pianistico"
 subtitle: "The Fly!"
 author: "Wferr"
 avatar: "img/.png"
