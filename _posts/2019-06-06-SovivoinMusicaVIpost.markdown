@@ -1,6 +1,6 @@
 ---
-title: MK
-subtitle: 
+title:
+subtitle: Mk
 author: "Katia Spadola"
 avatar: "img/authors/katia.png"
 image: "img/sovicoinmusicaMG.jpg"
