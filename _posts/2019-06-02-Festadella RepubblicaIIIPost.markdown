@@ -2,7 +2,7 @@
 title:  " Festa della Repubblica"
 subtitle: "Orchestra Ofi"
 author: "Katia Spadola"
-avatar: "img/authors/wferr.png"
+avatar: "img/authors/katia.png"
 image: "img/FestadellaRepubblicaMG.jpg"
 date:   2019-06-2 12:12:12
 ---
