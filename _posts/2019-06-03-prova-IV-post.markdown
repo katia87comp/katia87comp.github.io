@@ -4,7 +4,7 @@ subtitle: "Mk"
 author: "Darko JOvanovic"
 avatar: "img/authors/wferr.png"
 image: "img/Masterclass Clarinetto.jpg"
-date:   2019-05-25 12:12:12
+date:   2019-06-3 12:12:12
 ---
 
 ### Masterclass di Clarinetto
