@@ -2,7 +2,7 @@
 title:  "Anna Caterina Binda"
 subtitle: ""
 author: "Katia Spadola"
-avatar: "img/authors/wferr.png"
+avatar: "img/authors/katia.png"
 image: "img/AnnaCaterinaBindaMg.jpg"
 date:   2019-06-3 12:12:12
 ---

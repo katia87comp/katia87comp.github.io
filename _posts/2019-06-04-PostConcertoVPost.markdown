@@ -2,7 +2,7 @@
 title: "PostConcerto"
 subtitle: "Mk"
 author: "Katia Spadola"
-avatar: "img/authors/wferr.png"
+avatar: "img/authors/katia.png"
 image: "img/BindaeAllieviIMG.jpg"
 date:   2019-06-04 12:12:12
 ---

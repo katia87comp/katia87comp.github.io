@@ -2,7 +2,7 @@
 title: ""
 subtitle: ""
 author: "MK"
-avatar: "img/authors/wferr.png"
+avatar: "img/authors/katia.png"
 image: "img/BeethovenIMG.jpg"
 date:   2019-05-29 12:12:12
 ---
