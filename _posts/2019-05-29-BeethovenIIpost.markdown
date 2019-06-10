@@ -1,6 +1,6 @@
 ---
-title:  
-subtitle: 
+title: ""
+subtitle: ""
 author: "MK"
 avatar: "img/authors/wferr.png"
 image: "img/BeethovenIMG.jpg"
