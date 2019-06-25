@@ -4,7 +4,7 @@ subtitle: "Concerto"
 author: "Katia Spadola"
 avatar: "img/authors/katia.png"
 image: "img/festadellarepubblica2.jpg"
-date:   2019-06-25 12:12:12
+date:   2019-06-02 12:12:12
 ---
 
 ### Feste della Repubblica
