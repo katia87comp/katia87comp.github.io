@@ -4,7 +4,7 @@ subtitle:
 author: "Katia Spadola"
 avatar: "img/authors/katia.png"
 image: "img/MasterclassClarinettoMG.jpg"
-date:   2019-06-5 12:12:12
+date:   2019-06-05 12:12:12
 ---
 
 ### Gianluigi Caldarola
