@@ -3,7 +3,7 @@ title:  "Concerto di Flauto"
 subtitle: "Fine corso annuale"
 author: "Wferr"
 avatar: "img/.png"
-image: "concertoflauto.jpg"
+image: "img/concertoflauto.jpg"
 date:   2015-06-25 12:12:12
 ---
 
