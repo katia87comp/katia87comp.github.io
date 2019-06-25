@@ -1,6 +1,6 @@
 ---
-title: "Festa Della Repubblica"
-subtitle: "Concerto"
+title: ""
+subtitle: ""
 author: "Katia Spadola"
 avatar: "img/authors/katia.png"
 image: "img/festadellarepubblica2.jpg"
