@@ -3,7 +3,7 @@ title: MK
 subtitle:
 author: "Katia Spadola"
 avatar: "img/authors/katia.png"
-image: "img/MasterclassClarinettoMG.jpg"
+image: "img/clarinetto2.jpg"
 date:   2019-06-05 12:12:12
 ---
 
