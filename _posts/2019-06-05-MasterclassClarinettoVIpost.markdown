@@ -12,4 +12,4 @@ Si è appena conclusa la masterclass di Perfezionamento di Clarinetto del M° Gi
 
 A breve nuovi post con le foto del corso
 
-![MasterclassClarinettoMG](img/MasterclassClarinettoMG.jpg =400x800)
+![MasterclassClarinettoMG](img/MasterclassClarinettoMG.jpg =20x100)
