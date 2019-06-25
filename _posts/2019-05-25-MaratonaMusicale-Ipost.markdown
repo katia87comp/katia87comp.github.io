@@ -8,7 +8,7 @@ date:   2019-05-25 12:12:12
 ---
 
 ### Maratona Musicale VII edizione
-Sabato 25 e domenica 26 si terrà la maratona musicale giunta alla VII edizione presso l'Auditorium della Fondazione di Piacenza e Vigevano, in Via S. Franca 13.
+Sabato 25 e domenica 26 Maggio si terrà la maratona musicale giunta alla VII edizione presso l'Auditorium della Fondazione di Piacenza e Vigevano, in Via S. Franca 13.
 INGRESSO LIBERO
 
 ### Appuntamenti
