@@ -4,7 +4,7 @@ subtitle: "Fine corso annuale"
 author: "Wferr"
 avatar: "img/.png"
 image: "img/concertoflauto.jpg"
-date:   2015-06-25 12:12:12
+date:   2019-06-25 12:12:12
 ---
 
 ### Video
