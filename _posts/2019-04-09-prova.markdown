@@ -1,8 +1,8 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
-author: "Wferr"
-avatar: "img/.png"
+title:  "RICORDI"
+subtitle:
+author: "Katia Spadola"
+avatar: "img/authors/katia.png"
 image: "img/ospedaleIMG.jpg"
 date:   2019-04-09 12:12:12
 ---
