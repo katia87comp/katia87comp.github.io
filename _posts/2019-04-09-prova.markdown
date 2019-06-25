@@ -8,4 +8,4 @@ date:   2019-04-09 12:12:12
 ---
 ### Concerto in Pediatria
 <!--![ospedale](img/ospedaleIMG.jpg =20x100)-->
-<img src="/img/ospedaleIMG.jpg" height="800" width="550">
+<img src="/img/ospedaleIMG.jpg" height="550" width="700">
