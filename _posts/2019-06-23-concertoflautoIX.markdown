@@ -2,7 +2,7 @@
 title:  "Concerto di Flauto"
 subtitle: "Fine corso annuale"
 author: "Wferr"
-avatar: "img/.png"
+avatar: "img/authors/katia.png"
 image: "img/concertoflauto.jpg"
 date:   2019-06-23 12:12:12
 ---
