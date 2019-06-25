@@ -1,9 +1,9 @@
 ---
-title:
+title: "Masterclass2019"
 subtitle: Mk
 author: "Katia Spadola"
 avatar: "img/authors/katia.png"
-image: "img/sovicoinmusicaMG.jpg"
+image: "img/sovico2.jpg"
 date:   2019-06-06 12:12:12
 ---
 
