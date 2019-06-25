@@ -3,7 +3,7 @@ title: "Festa Della Repubblica"
 subtitle: "Concerto"
 author: "Katia Spadola"
 avatar: "img/authors/katia.png"
-image: "img/festadellaRepubblica2.jpg"
+image: "img/festadellarepubblica2.jpg"
 date:   2019-06-2 12:12:12
 ---
 
