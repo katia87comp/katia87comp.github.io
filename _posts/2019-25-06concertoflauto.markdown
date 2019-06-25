@@ -1,6 +1,6 @@
 ---
 title:  "Concerto di Flauto"
-subtitle: "Fino corso annuale"
+subtitle: "Fine corso annuale"
 author: "Wferr"
 avatar: "img/.png"
 image: "concertoflauto.jpg"
