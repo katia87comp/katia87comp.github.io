@@ -3,7 +3,7 @@ title:  "Planes are cool!"
 subtitle: "The Fly!"
 author: "Wferr"
 avatar: "img/.png"
-image: "img/a.jpg"
+image: "img/ospedaleIMG.jpg"
 date:   2019-04-09 12:12:12
 ---
 
